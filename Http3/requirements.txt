@@ -1,0 +1,5 @@
+cat > requirements.txt << 'EOF'
+aioquic>=0.9.25
+cryptography>=41.0.0
+pylsqpack>=0.3.17
+EOF
